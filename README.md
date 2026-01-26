@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/your-id/citty.jpeg" width="160" style="border-radius:24px"/>
+<img src="https://user-images.githubusercontent.com/skorbjen/citty.jpeg" width="160" style="border-radius:24px"/>
 
 # <span style="letter-spacing:4px;">SKORBJEN</span>
 
