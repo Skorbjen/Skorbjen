@@ -1,56 +1,79 @@
-# 🌌 [SKORBJEN](https://github.com/Skorbjen) | System Architect
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glitch&text=SKORBJEN&color=ff2d55&fontSize=80&fontAlignY=40&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOUNDER-PROJECT%20SURREAL-ff2d55?style=for-the-badge&logo=ghost&logoColor=white" />
-  <img src="https://img.shields.io/badge/KERNEL-BYPASS_ACTIVE-white?style=for-the-badge&logo=arch-linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AGE-14_YRS-ff2d55?style=for-the-badge" />
-</p>
-
----
-
-### 🌑 [SYSTEM_OVERRIDE]
-> **"isrt • Establishing Excellence"**
-
-Ich bin Skorbjen. Ich bewege mich in den Zwischenräumen von **Reverse Engineering**, **System-Optimierung** und **surrealer UI-Gestaltung**. Während andere Oberflächen bauen, manipuliere ich den Kern.
-
-* 📡 **Aktueller Prozess:** Skalierung der **Surreal-Engine** für High-End VRChat Modding.
-* 🧬 **Spezialgebiet:** Kernel-Virtualisierung, HWID-Spoofing & Speicher-Manipulation.
-* 💻 **Umgebung:** Nyarch (Arch Linux) | Minimalist Workflow.
-* 🔮 **Status:** *Establishing the next generation of digital abstraction.*
-
----
-
-### 🛠 DAS ARSENAL (TECH-GRID)
-
 <div align="center">
 
-| **LOGIC** | **SYSTEM** | **VISUALS** |
-| :--- | :--- | :--- |
-| `C++ / Low-Level` | `Linux Kernel / Arch` | `Unity Engine` |
-| `Python / Automation` | `Reverse Engineering` | `High-End UI Design` |
-| `Assembly / Optimization` | `Virtualization` | `Shader Development` |
+<img src="https://user-images.githubusercontent.com/your-id/citty.jpeg" width="160" style="border-radius:24px"/>
 
-<br>
+# <span style="letter-spacing:4px;">SKORBJEN</span>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**DEV · SURREAL FOUNDER · SYSTEM ARCHITECT**
 
-</div>
+<sub>ACCESS GRANTED · SYSTEM STATUS: STABLE</sub>
 
 ---
 
-### 🏗️ PROJECT: SURREAL
-```c++
-struct SurrealProject {
-    string status      = "STABLE";
-    string target      = "VRChat_Internal";
-    bool kernel_bypass = true;
-    float performance  = 1.0f; // Unmatched
-};
+### 「 SYSTEM BIO 」
+
+14 y/o developer from **Germany**  
+Focused on **system optimization**, **VRChat clients** and **low-level tech**.  
+I like breaking stuff to understand it better.
+
+> *"Stay invisible. Stay surreal."*
+
+---
+
+### 「 TECH STACK 」
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=ff2d55"/>
+  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ff2d55"/>
+  <img src="https://img.shields.io/badge/Unity-0a0a0a?style=for-the-badge&logo=unity&logoColor=ff2d55"/>
+  <img src="https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=ff2d55"/>
+  <img src="https://img.shields.io/badge/Reverse_Engineering-0a0a0a?style=for-the-badge&logo=hackaday&logoColor=ff2d55"/>
+  <img src="https://img.shields.io/badge/Blender-0a0a0a?style=for-the-badge&logo=blender&logoColor=ff2d55"/>
+</p>
+
+---
+
+### 「 ACTIVE PROJECTS 」
+
+#### 🩸 **SURREAL**
+Advanced security & VRChat modding ecosystem  
+Custom clients · engine mods · internal tooling  
+
+🔗 **Discord:** https://discord.gg/kXYXRkRr6j
+
+---
+
+#### 🐧 **Nyarch Linux**
+Arch Linux – but weebified.  
+Minimal, fast, aesthetic.
+
+---
+
+### 「 STATS 」
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Skorbjen&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skorbjen&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+### 「 CONNECT 」
+
+<p align="center">
+  <a href="https://github.com/Skorbjen">
+    <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/kXYXRkRr6j">
+    <img src="https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+  </a>
+</p>
+
+---
+
+<sub>isrt • Establishing Excellence • 2026</sub>
+
+</div>
