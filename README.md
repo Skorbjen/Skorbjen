@@ -1,76 +1,56 @@
-# 🌌 [SKORBJEN](https://github.com/Skorbjen) | System Architect & Surreal Founder
+# 🌌 [SKORBJEN](https://github.com/Skorbjen) | System Architect
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=glitch&text=SKORBJEN&color=ff2d55&fontSize=80&fontAlignY=40&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Bypassing%20Reality-ff2d55?style=for-the-badge&logo=ghost&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Dev%20%7C%20Surreal%20Founder-white?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/FOUNDER-PROJECT%20SURREAL-ff2d55?style=for-the-badge&logo=ghost&logoColor=white" />
+  <img src="https://img.shields.io/badge/KERNEL-BYPASS_ACTIVE-white?style=for-the-badge&logo=arch-linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AGE-14_YRS-ff2d55?style=for-the-badge" />
 </p>
 
 ---
 
-### 🌑 System Log: Initialisiert
-> *"isrt • Establishing Excellence"*
+### 🌑 [SYSTEM_OVERRIDE]
+> **"isrt • Establishing Excellence"**
 
-Ich bin ein **14-jähriger Entwickler** aus Deutschland. Mein Fokus liegt auf der **System-Optimierung**, **Reverse Engineering** und der Entwicklung von **VRChat-Clients**. Ich nehme die Logik des Codes und verpacke sie in das Gewand des Surrealen.
+Ich bin Skorbjen. Ich bewege mich in den Zwischenräumen von **Reverse Engineering**, **System-Optimierung** und **surrealer UI-Gestaltung**. Während andere Oberflächen bauen, manipuliere ich den Kern.
 
-- 🌀 **Core Focus:** High-End Performance & System-Architektur.
-- 🔮 **Current Frequency:** Leitung von **Project Surreal** – das nächste Level der VRChat Modding-Szene.
-- 🛠 **Arsenal:** Spezialisiert auf C++, Python und Unity.
-- 🕯️ **Philosophie:** Code sollte sich anfühlen wie ein Traum – logisch, aber magisch.
+* 📡 **Aktueller Prozess:** Skalierung der **Surreal-Engine** für High-End VRChat Modding.
+* 🧬 **Spezialgebiet:** Kernel-Virtualisierung, HWID-Spoofing & Speicher-Manipulation.
+* 💻 **Umgebung:** Nyarch (Arch Linux) | Minimalist Workflow.
+* 🔮 **Status:** *Establishing the next generation of digital abstraction.*
 
 ---
 
-### 🛠 Das Arsenal (Tech Stack)
+### 🛠 DAS ARSENAL (TECH-GRID)
 
 <div align="center">
 
-| ⚡ **Logic & Core** | 🏗️ **Environment** | 🎨 **Aesthetics** |
+| **LOGIC** | **SYSTEM** | **VISUALS** |
 | :--- | :--- | :--- |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Reverse Eng](https://img.shields.io/badge/Reverse_Engineering-ff2d55?style=for-the-badge) | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) |
+| `C++ / Low-Level` | `Linux Kernel / Arch` | `Unity Engine` |
+| `Python / Automation` | `Reverse Engineering` | `High-End UI Design` |
+| `Assembly / Optimization` | `Virtualization` | `Shader Development` |
+
+<br>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-### 🏗️ Flagship: PROJECT SURREAL
-
-| Modul | Beschreibung | Status |
-| :--- | :--- | :--- |
-| **VRC Client** | Unmatched performance & custom scripting engine. | `ACTIVE` |
-| **HWID Spoofer** | Deep kernel-level hardware virtualization. | `ENCRYPTED` |
-| **Unity Core** | Backbone für interne Modifikationen und API Zugriff. | `STABLE` |
-
----
-
-### 📊 System-Metriken (Real-Time Stats)
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Skorbjen&show_icons=true&theme=radical&title_color=ff2d55&icon_color=ff2d55&hide_border=true&bg_color=0a0808" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skorbjen&layout=compact&theme=radical&title_color=ff2d55&hide_border=true&bg_color=0a0808" />
-</p>
-
----
-
-### 📡 Frequenzen (Verbindung)
-
-<p align="center">
-  <a href="https://discord.gg/kXYXRkRr6j"><img src="https://img.shields.io/badge/Discord-Connect-ff2d55?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://vrchat.com/home/user/usr_6d85690e-95c4-4786-8b65-5dc7bdaf6b5e"><img src="https://img.shields.io/badge/VRChat-Profile-white?style=for-the-badge&logo=vrchat&logoColor=black" /></a>
-  <a href="https://github.com/Skorbjen/About-Me"><img src="https://img.shields.io/badge/GitHub-Projects-gray?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
-</p>
-
-<p align="center">
-  <font size="2"><code>SYSTEM_ACCESS_LOG: SUCCESSFUL | VISITOR_ID: FETCHING...</code></font><br>
-  <i>"The world is but a canvas to our imagination."</i>
-</p>
+### 🏗️ PROJECT: SURREAL
+```c++
+struct SurrealProject {
+    string status      = "STABLE";
+    string target      = "VRChat_Internal";
+    bool kernel_bypass = true;
+    float performance  = 1.0f; // Unmatched
+};
