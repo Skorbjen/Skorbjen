@@ -13,7 +13,7 @@
 14 y/o developer from **Germany** Focused on **system optimization**, **VRChat clients** and **low-level tech**.  
 I like breaking stuff to understand it better.
 
-> *The Void Is Calling.*
+> *"Stay invisible. Stay surreal."*
 
 ---
 
@@ -49,11 +49,11 @@ Minimal, fast, aesthetic.
 ### 「 STATS 」
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skorbjen&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=7B00FF&icon_color=7B00FF&text_color=ffffff&bg_color=0a0a0a" alt="Skorbjen Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Skorbjen&show_icons=true&theme=transparent&title_color=7B00FF&icon_color=7B00FF&text_color=ffffff&bg_color=0a0a0a&hide_border=true&cache_seconds=1800" alt="Skorbjen Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skorbjen&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=7B00FF&text_color=ffffff&bg_color=0a0a0a" alt="Skorbjen Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skorbjen&layout=compact&theme=transparent&title_color=7B00FF&text_color=ffffff&bg_color=0a0a0a&hide_border=true&cache_seconds=1800" alt="Skorbjen Top Langs" />
 </p>
 
 <p align="center">
