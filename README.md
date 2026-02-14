@@ -4,14 +4,13 @@
 
 **DEV · SURREAL FOUNDER · SYSTEM ARCHITECT**
 
-<sub>ACCESS GRANTED · SYSTEM STATUS: STABLE</sub>
+<sub>ACCESS GRANTED · SYSTEM STATUS: ONLINE</sub>
 
 ---
 
 ### 「 SYSTEM BIO 」
 
-14 y/o developer from **Germany**  
-Focused on **system optimization**, **VRChat clients** and **low-level tech**.  
+14 y/o developer from **Germany** Focused on **system optimization**, **VRChat clients** and **low-level tech**.  
 I like breaking stuff to understand it better.
 
 > *"Stay invisible. Stay surreal."*
@@ -21,12 +20,12 @@ I like breaking stuff to understand it better.
 ### 「 TECH STACK 」
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-0a0a0a?style=for-the-badge&logo=cplusplus&logoColor=ff2d55"/>
-  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ff2d55"/>
-  <img src="https://img.shields.io/badge/Unity-0a0a0a?style=for-the-badge&logo=unity&logoColor=ff2d55"/>
-  <img src="https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=ff2d55"/>
-  <img src="https://img.shields.io/badge/Reverse_Engineering-0a0a0a?style=for-the-badge&logo=hackaday&logoColor=ff2d55"/>
-  <img src="https://img.shields.io/badge/Blender-0a0a0a?style=for-the-badge&logo=blender&logoColor=ff2d55"/>
+  <img src="https://img.shields.io/badge/C++-7B00FF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-7B00FF?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-7B00FF?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-7B00FF?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reverse_Engineering-7B00FF?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-7B00FF?style=for-the-badge&logo=blender&logoColor=white"/>
 </p>
 
 ---
@@ -37,7 +36,7 @@ I like breaking stuff to understand it better.
 Advanced security & VRChat modding ecosystem  
 Custom clients · engine mods · internal tooling  
 
-🔗 **Discord:** https://discord.gg/kXYXRkRr6j
+🔗 **Discord:** [Join Surreal](https://discord.gg/kXYXRkRr6j)
 
 ---
 
@@ -50,11 +49,15 @@ Minimal, fast, aesthetic.
 ### 「 STATS 」
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skorbjen&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Skorbjen&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=7B00FF&icon_color=7B00FF&text_color=ffffff&bg_color=0a0a0a" alt="Skorbjen Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skorbjen&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skorbjen&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=7B00FF&text_color=ffffff&bg_color=0a0a0a" alt="Skorbjen Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skorbjen&theme=vision-friendly-dark&hide_border=true&stroke=7B00FF&ring=7B00FF&fire=7B00FF&currStreakLabel=7B00FF" alt="Skorbjen Streak" />
 </p>
 
 ---
