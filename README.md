@@ -34,7 +34,7 @@ I like breaking stuff to understand it better.
 
 #### 🩸 **SURREAL**
 Advanced security & VRChat modding ecosystem  
-Custom clients · engine mods · internal tooling  
+Custom clients · engine mods · internal tooling
 
 🔗 **Discord:** [Join Surreal](https://discord.gg/kXYXRkRr6j)
 
@@ -49,11 +49,11 @@ Minimal, fast, aesthetic.
 ### 「 STATS 」
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skorbjen&show_icons=true&theme=transparent&title_color=7B00FF&icon_color=7B00FF&text_color=ffffff&bg_color=0a0a0a&hide_border=true&cache_seconds=1800" alt="Skorbjen Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Skorbjen&show_icons=true&theme=transparent&title_color=7B00FF&icon_color=7B00FF&text_color=ffffff&bg_color=0a0a0a&hide_border=true&cache_seconds=1800" alt="Skorbjen Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skorbjen&layout=compact&theme=transparent&title_color=7B00FF&text_color=ffffff&bg_color=0a0a0a&hide_border=true&cache_seconds=1800" alt="Skorbjen Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Skorbjen&layout=compact&theme=transparent&title_color=7B00FF&text_color=ffffff&bg_color=0a0a0a&hide_border=true&cache_seconds=1800" alt="Skorbjen Top Langs" />
 </p>
 
 <p align="center">
