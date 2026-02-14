@@ -13,7 +13,7 @@
 14 y/o developer from **Germany** Focused on **system optimization**, **VRChat clients** and **low-level tech**.  
 I like breaking stuff to understand it better.
 
-> *"Stay invisible. Stay surreal."*
+> *"The Void Is Calling."*
 
 ---
 
