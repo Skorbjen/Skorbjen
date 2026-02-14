@@ -2,16 +2,16 @@
 
 # <span style="letter-spacing:4px;">SKORBJEN</span>
 
-**DEV · SURREAL FOUNDER · SYSTEM ARCHITECT**
+**REVERSE ENGINEER · SURREAL FOUNDER · HEX MEMBER**
 
-<sub>ACCESS GRANTED · SYSTEM STATUS: ONLINE</sub>
+<sub>ACCESS GRANTED · SYSTEM STATUS: OPERATIONAL · 2026</sub>
 
 ---
 
 ### 「 SYSTEM BIO 」
 
-14 y/o developer from **Germany** Focused on **system optimization**, **VRChat clients** and **low-level tech**.  
-I like breaking stuff to understand it better.
+Developer from **Germany** specializing in **low-level development**, **VRChat tooling** and **software internals**. 
+I build, I break, and I optimize. Currently leading the **Surreal** ecosystem and contributing to **Hex**.
 
 > *"Stay invisible. Stay surreal."*
 
@@ -30,19 +30,27 @@ I like breaking stuff to understand it better.
 
 ---
 
-### 「 ACTIVE PROJECTS 」
+### 「 OPERATIONS 」
 
-#### 🩸 **SURREAL**
-Advanced security & VRChat modding ecosystem  
-Custom clients · engine mods · internal tooling
+#### 🌌 **SURREAL**
+Advanced software tooling & community for VRChat. 
+Focusing on internal stability, security bypassing, and enhanced user experiences.
 
-🔗 **Discord:** [Join Surreal](https://discord.gg/kXYXRkRr6j)
+#### 💀 **HEX**
+Active member of the Hex collective. 
+Deep-diving into game mechanics, memory manipulation, and cheating frameworks.
+
+#### 🐧 **Nyarch Linux**
+Arch Linux – but weebified. 
+Minimal, fast, and aesthetically pleasing.
 
 ---
 
-#### 🐧 **Nyarch Linux**
-Arch Linux – but weebified.  
-Minimal, fast, aesthetic.
+### 「 WORKSPACE 」
+
+* **Editor:** Visual Studio Code 🟦
+* **Focus:** Memory Forensics, Internal Tooling, C++ Optimization
+* **Environment:** Linux / Dresden, Germany
 
 ---
 
@@ -54,10 +62,6 @@ Minimal, fast, aesthetic.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Skorbjen&layout=compact&theme=transparent&title_color=7B00FF&text_color=ffffff&bg_color=0a0a0a&hide_border=true&cache_seconds=1800" alt="Skorbjen Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skorbjen&theme=vision-friendly-dark&hide_border=true&stroke=7B00FF&ring=7B00FF&fire=7B00FF&currStreakLabel=7B00FF" alt="Skorbjen Streak" />
 </p>
 
 ---
@@ -75,6 +79,6 @@ Minimal, fast, aesthetic.
 
 ---
 
-<sub>isrt • Establishing Excellence • 2026</sub>
+<sub>Establishing Excellence • 2026</sub>
 
 </div>
