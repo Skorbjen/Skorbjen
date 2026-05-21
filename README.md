@@ -18,22 +18,22 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════╗
-║                    [ SYSTEM BIO ]                    ║
-╚══════════════════════════════════════════════════════╝
-```
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&width=100%"/></div>
+
+<br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=SYSTEM+BIO&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
+
+<br/>
 
 Developer from **Germany** building software for VRChat and the people who live in it.
 I focus on tooling that works, UIs that feel right, and shipping things that matter.
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════╗
-║                   [ TECH STACK ]                     ║
-╚══════════════════════════════════════════════════════╝
-```
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=TECH+STACK&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
+
+<br/>
 
 <div align="center">
 
@@ -48,29 +48,16 @@ I focus on tooling that works, UIs that feel right, and shipping things that mat
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════╗
-║                   [ OPERATIONS ]                     ║
-╚══════════════════════════════════════════════════════╝
-```
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=OPERATIONS&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
+
+<br/>
 
 **🐱 Parano!a OSC**
 > VRChat chatbox tool — system stats, media, AFK, rotating messages and more, sent directly to your VRChat chatbox via OSC. Built with C# / WPF / WebView2, deployed on Cloudflare.
 
-[![Discord](https://img.shields.io/badge/discord.gg/paranoiaosc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/paranoiaosc)
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════╗
-║                     [ STATS ]                        ║
-╚══════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Skorbjen&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9D4EDD&icon_color=9D4EDD&text_color=c4b5fd"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skorbjen&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9D4EDD&text_color=c4b5fd"/>
+[![Discord](https://img.shields.io/badge/discord.gg/paranoiaosc-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/paranoiaosc)
 
 </div>
 
