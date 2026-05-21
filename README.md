@@ -24,6 +24,7 @@
 
 Just getting into coding and figuring things out one line at a time.
 Currently learning **web development** — building things with HTML, CSS and JavaScript.
+Also part of the **Parano!a** staff team 🐱
 
 <br/>
 
@@ -45,7 +46,7 @@ Currently learning **web development** — building things with HTML, CSS and Ja
 
 <br/>
 
-Part of the **Parano!a** community 🐱
+**Staff** at **Parano!a** 🐱
 
 <div align="center">
 
