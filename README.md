@@ -1,84 +1,49 @@
 <div align="center">
 
-# <span style="letter-spacing:4px;">SKORBJEN</span>
+<img src="./ParanoiaBannercat.png" width="420"/>
 
-**REVERSE ENGINEER · SURREAL FOUNDER · HEX MEMBER**
+<br/>
 
-<sub>ACCESS GRANTED · SYSTEM STATUS: OPERATIONAL · 2026</sub>
+**`SKORBJEN`**
 
----
+`developer · VRChat tooling · software builder`
 
-### 「 SYSTEM BIO 」
+`─────────────────────────────────────`
 
-Developer from **Germany** specializing in **low-level development**, **VRChat tooling** and **software internals**. 
-I build, I break, and I optimize. Currently leading the **Surreal** ecosystem and contributing to **Hex**.
+</div>
 
-> *"Stay invisible. Stay surreal."*
+<br/>
 
----
+### `[ WHO AM I ]`
 
-### 「 TECH STACK 」
+Developer from **Germany** building tools for VRChat and the community around it.
+I focus on clean software, good UX, and things that actually work.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-7B00FF?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-7B00FF?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-7B00FF?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-7B00FF?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Reverse_Engineering-7B00FF?style=for-the-badge&logo=hackaday&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-7B00FF?style=for-the-badge&logo=blender&logoColor=white"/>
-</p>
+> *"ship it, improve it, repeat."*
 
----
+<br/>
 
-### 「 OPERATIONS 」
+### `[ TECH STACK ]`
 
-#### 🌌 **SURREAL**
-Advanced software tooling & community for VRChat. 
-Focusing on internal stability, security bypassing, and enhanced user experiences.
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-#### 💀 **HEX**
-Active member of the Hex collective. 
-Deep-diving into game mechanics, memory manipulation, and cheating frameworks.
+<br/>
 
-#### 🐧 **Nyarch Linux**
-Arch Linux – but weebified. 
-Minimal, fast, and aesthetically pleasing.
+### `[ PROJECTS ]`
 
----
+**🐱 Parano!a OSC** — VRChat chatbox tool. System stats, media, AFK, rotating messages and more — all in your chatbox. Built with C# / WPF / WebView2.
 
-### 「 WORKSPACE 」
+[![Discord](https://img.shields.io/badge/discord.gg/paranoiaosc-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/paranoiaosc)
 
-* **Editor:** Visual Studio Code 🟦
-* **Focus:** Memory Forensics, Internal Tooling, C++ Optimization
-* **Environment:** Linux / Dresden, Germany
+<br/>
 
----
+<div align="center">
 
-### 「 STATS 」
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Skorbjen&show_icons=true&theme=transparent&title_color=7B00FF&icon_color=7B00FF&text_color=ffffff&bg_color=0a0a0a&hide_border=true&cache_seconds=1800" alt="Skorbjen Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Skorbjen&layout=compact&theme=transparent&title_color=7B00FF&text_color=ffffff&bg_color=0a0a0a&hide_border=true&cache_seconds=1800" alt="Skorbjen Top Langs" />
-</p>
-
----
-
-### 「 CONNECT 」
-
-<p align="center">
-  <a href="https://github.com/Skorbjen">
-    <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/kXYXRkRr6j">
-    <img src="https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=5865F2"/>
-  </a>
-</p>
-
----
-
-<sub>Establishing Excellence • 2026</sub>
+`─────────────────────────────────────`
 
 </div>
