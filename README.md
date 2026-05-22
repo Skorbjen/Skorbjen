@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=160&section=header&text=SKORBJEN&fontSize=52&fontColor=ffffff&fontAlignY=52&desc=developer%20%C2%B7%20VRChat%20tooling%20%C2%B7%20software%20builder&descSize=15&descAlignY=76&descColor=c4b5fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=160&section=header&text=P2NV&fontSize=52&fontColor=ffffff&fontAlignY=52&desc=learning+web+dev+%C2%B7+html+%C2%B7+css+%C2%B7+js&descSize=15&descAlignY=76&descColor=e9d5ff"/>
 
 <div align="center">
 
@@ -6,31 +6,32 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=9D4EDD&center=true&vCenter=true&width=520&lines=building+tools+for+VRChat+%F0%9F%90%BE;C%23+%2F+WPF+%2F+.NET+8;ship+it.+improve+it.+repeat.;Parano!a+OSC+%E2%80%94+always+shipping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=c084fc&center=true&vCenter=true&width=520&lines=learning+to+code+%F0%9F%90%BE;html+%C2%B7+css+%C2%B7+javascript;building+my+first+things+%E2%9C%A8;Parano!a+staff+%F0%9F%90%BE)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://img.shields.io/badge/STATUS-OPERATIONAL-9D4EDD?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/LOCATION-GERMANY-7c3aed?style=flat-square&labelColor=0d0d0d)
-![](https://img.shields.io/badge/FOCUS-VRChat_Tooling-6d28d9?style=flat-square&labelColor=0d0d0d)
-![](https://komarev.com/ghpvc/?username=skorbjen&style=flat-square&color=9D4EDD&label=PROFILE+VIEWS&labelColor=0d0d0d)
+![](https://img.shields.io/badge/STATUS-LEARNING-c084fc?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/FOCUS-Web_Dev-9d4edd?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/VIBE-just+starting-7c3aed?style=flat-square&labelColor=0d0d0d)
+![](https://komarev.com/ghpvc/?username=p2nv&style=flat-square&color=c084fc&label=PROFILE+VIEWS&labelColor=0d0d0d)
 
 </div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&width=100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=9d4edd&height=2&width=100%"/></div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=SYSTEM+BIO&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=ABOUT+ME&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
 
 <br/>
 
-Developer from **Germany** and owner of **Parano!a** — building software for VRChat and the people who live in it.
-I focus on tooling that works, UIs that feel right, and shipping things that matter.
+Just getting into coding and figuring things out one line at a time.
+Currently learning **web development** — building things with HTML, CSS and JavaScript.
+Also part of the **Parano!a** staff team 🐱
 
-No bloat. No filler. Just software that does exactly what it promises.
+Every project is a step forward. Every bug is a lesson. Still here, still building.
 
 <br/>
 
@@ -38,52 +39,43 @@ No bloat. No filler. Just software that does exactly what it promises.
 
 | | |
 |---|---|
-| 🧠 **Currently building** | Parano!a OSC — always improving |
-| 🔭 **Exploring** | WebView2 integrations, OSC protocol tooling |
-| 🎮 **Lives in** | VRChat |
+| 📖 **Currently learning** | HTML, CSS, JavaScript |
+| 🔭 **Next up** | Responsive design & JS projects |
+| 🐱 **Community** | Parano!a Staff |
 | 🌍 **Based in** | Germany |
-| 💬 **Ask me about** | C#, WPF, .NET, VRChat tooling |
+| 💬 **Ask me about** | Getting started with web dev |
 
 </div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&width=100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=9d4edd&height=2&width=100%"/></div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=TECH+STACK&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=LEARNING&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
 
 <br/>
 
 <div align="center">
 
-**Languages**
+**Currently working with**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frameworks & Runtimes**
+**Tools**
 
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![WebView2](https://img.shields.io/badge/WebView2-0078D4?style=for-the-badge&logo=microsoftedge&logoColor=white)
-
-**Infrastructure & Tools**
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 </div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&width=100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=9d4edd&height=2&width=100%"/></div>
 
 <br/>
 
@@ -93,29 +85,28 @@ No bloat. No filler. Just software that does exactly what it promises.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=skorbjen&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=7c3aed&fire=9D4EDD&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=6d28d9"/>
+<img src="https://streak-stats.demolab.com?user=p2nv&theme=midnight-purple&hide_border=true&background=0d0d0d&ring=9d4edd&fire=c084fc&currStreakLabel=e9d5ff&sideLabels=e9d5ff&dates=7c3aed"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=skorbjen&bg_color=0d0d0d&color=c4b5fd&line=7c3aed&point=9D4EDD&area=true&area_color=3b0764&hide_border=true&radius=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=p2nv&bg_color=0d0d0d&color=e9d5ff&line=9d4edd&point=c084fc&area=true&area_color=3b0764&hide_border=true&radius=6"/>
 
 </div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&width=100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=9d4edd&height=2&width=100%"/></div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=OPERATIONS&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=3b0764&height=40&text=COMMUNITY&fontSize=16&fontColor=e9d5ff&fontAlignY=65"/></div>
 
 <br/>
 
-**🐱 Parano!a OSC** — *Owner & Lead Developer*
+**🐱 Parano!a** — *Staff*
 
-> VRChat chatbox tool — system stats, media info, AFK status, rotating messages and more, sent directly to your VRChat chatbox via OSC.
-> Built with **C# / WPF / WebView2**, deployed on **Cloudflare**.
-> Designed for VRChat users who want their world presence to actually say something.
+> Part of the Parano!a team — the VRChat chatbox tool built by [@skorbjen](https://github.com/skorbjen).
+> Helping the community and learning along the way.
 
 <div align="center">
 
@@ -125,7 +116,7 @@ No bloat. No filler. Just software that does exactly what it promises.
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=7c3aed&height=2&width=100%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=9d4edd&height=2&width=100%"/></div>
 
 <br/>
 
@@ -136,7 +127,7 @@ No bloat. No filler. Just software that does exactly what it promises.
 <div align="center">
 
 [![Discord Server](https://img.shields.io/badge/Parano!a_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/paranoiaosc)
-[![GitHub](https://img.shields.io/badge/GitHub-skorbjen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skorbjen)
+[![GitHub](https://img.shields.io/badge/GitHub-p2nv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/p2nv)
 
 </div>
 
@@ -144,10 +135,10 @@ No bloat. No filler. Just software that does exactly what it promises.
 
 <div align="center">
 
-*"Ship it. Improve it. Repeat."*
+*"One line at a time."*
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21&height=110&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=110&section=footer"/>
