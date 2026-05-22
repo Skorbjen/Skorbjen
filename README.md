@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=180&section=header&text=SKORBJEN&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=developer%20%C2%B7%20VRChat%20tooling%20%C2%B7%20software%20builder&descSize=16&descAlignY=72&descColor=c4b5fd&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=180&section=header&text=SKORBJEN&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=developer%20%C2%B7%20VRChat%20tooling%20%C2%B7%20software%20builder&descSize=16&descAlignY=72&descColor=c4b5fd&animation=fadeIn"/>
 
 <div align="center">
 
@@ -190,4 +190,4 @@ Sends real-time data directly to your VRChat chatbox via OSC. No third-party ove
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,14&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer"/>
