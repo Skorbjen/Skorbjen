@@ -1,33 +1,37 @@
-# Hi, I'm Skorbjen
+<img src="./assets/banner.png" alt="skorbjen" width="100%">
 
-Developer from Dresden, Germany. I build desktop software for Windows, and I like it best when an app simply does what it should, quick and without clutter.
+<br>
 
-Together with [4tjoi](https://github.com/4tjoi) I run [v3slx](https://github.com/v3slx).
+i build desktop software for windows.<br>
+quiet apps that do exactly what they should, nothing more.
 
-## Working on
+### v3slx
 
-### YouTube Music Premium
+<a href="https://github.com/v3slx"><img src="https://github.com/v3slx.png?size=160" width="72" alt="v3slx"></a>&nbsp;
+<a href="https://github.com/Skorbjen"><img src="https://github.com/Skorbjen.png?size=160" width="72" alt="skorbjen"></a>&nbsp;
+<a href="https://github.com/4tjoi"><img src="https://github.com/4tjoi.png?size=160" width="72" alt="4tjoi"></a>
 
-A desktop client for YouTube Music with built-in themes, synced lyrics, audio output device selection and a Discord presence that shows what you're listening to. Made with 4tjoi under v3slx, currently in private testing.
+<sub>v3slx &nbsp;·&nbsp; skorbjen &nbsp;·&nbsp; 4tjoi</sub>
 
-## Stack
+### now
 
-![C#](https://img.shields.io/badge/C%23-7c3aed?style=flat-square)
-![.NET](https://img.shields.io/badge/.NET-7c3aed?style=flat-square)
-![WPF](https://img.shields.io/badge/WPF-7c3aed?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-7c3aed?style=flat-square)
-![Electron](https://img.shields.io/badge/Electron-7c3aed?style=flat-square)
-![Vue](https://img.shields.io/badge/Vue-7c3aed?style=flat-square)
-![Python](https://img.shields.io/badge/Python-7c3aed?style=flat-square)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-7c3aed?style=flat-square)
+**youtube music premium**<br>
+a desktop client for youtube music. themes, synced lyrics, audio output selection and a discord status.<br>
+<sub>in private testing</sub>
 
-## Contact
+### stack
 
-[![Mail](https://img.shields.io/badge/Mail-isrt%40v3slx.com-7c3aed?style=flat-square)](mailto:isrt@v3slx.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%40Skorbjen2.0-7c3aed?style=flat-square)](https://www.youtube.com/@Skorbjen2.0)
+`c#` `.net` `wpf` `typescript` `electron` `vue` `python` `cloudflare`
 
-## Activity
+### contact
 
-<img src="https://streak-stats.demolab.com?user=skorbjen&hide_border=true&background=FFFFFF00&ring=7c3aed&fire=7c3aed&currStreakNum=7c3aed&currStreakLabel=7c3aed&sideNums=8b8b8b&sideLabels=8b8b8b&dates=8b8b8b&stroke=8b8b8b" alt="GitHub streak">
+[![mail](https://img.shields.io/badge/mail-isrt%40v3slx.com-0a0a0a?style=flat-square&labelColor=000000)](mailto:isrt@v3slx.com)
+[![youtube](https://img.shields.io/badge/youtube-%40Skorbjen2.0-0a0a0a?style=flat-square&labelColor=000000)](https://www.youtube.com/@Skorbjen2.0)
 
-<img src="https://ghchart.rshah.org/7c3aed/skorbjen" alt="Contribution chart" width="100%">
+### activity
+
+<img src="https://streak-stats.demolab.com?user=skorbjen&hide_border=true&disable_animations=true&background=0a0a0a&stroke=262626&ring=d4d4d4&fire=d4d4d4&currStreakNum=f5f5f5&sideNums=f5f5f5&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=525252" alt="streak">
+
+<br>
+
+<sub>ship it. improve it. repeat.</sub>
