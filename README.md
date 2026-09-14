@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" alt="skorbjen" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1400&color=A3A3A3&center=true&vCenter=true&width=620&height=40&lines=i+build+desktop+software+for+windows;quiet+apps+that+do+exactly+what+they+should;youtube+music+premium+%C2%B7+in+private+testing;made+with+4tjoi+under+v3slx" alt="i build desktop software for windows">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1400&color=A3A3A3&center=true&vCenter=true&width=620&height=40&lines=i+build+desktop+software+for+windows;quiet+apps+that+do+exactly+what+they+should;youtube+music+premium+%C2%B7+now+open+source;made+with+4tjoi+under+v3slx" alt="i build desktop software for windows">
 
 &nbsp;
 
@@ -16,7 +16,7 @@
 
 <img src="./assets/section-now.png" alt="now" width="100%">
 
-<img src="./assets/project-youtube-music-premium.png" alt="youtube music premium, a desktop client for youtube music, in private testing" width="100%">
+<a href="https://github.com/v3slx/youtube-music-premium"><img src="./assets/project-youtube-music-premium.png" alt="youtube music premium, a desktop client for youtube music, open source" width="100%"></a>
 
 &nbsp;
 
